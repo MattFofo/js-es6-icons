@@ -1,4 +1,4 @@
-const arrStartingData = [
+const arrStartingIcons = [
 	{
 		name: 'cat',
 		prefix: 'fa-',

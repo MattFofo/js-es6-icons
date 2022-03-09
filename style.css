@@ -35,7 +35,7 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    overflow-y: hidden;
+    overflow-y: auto;
     background-color: lightgray;
     height: calc(100vh - (var(--header-container-height) + var(--header-height)));
 }
@@ -47,7 +47,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column-reverse;
+    flex-direction: column;
     background-color: white;
     margin: 1rem;
 }
